@@ -1,0 +1,27 @@
+[global_config]
+  borderless = True
+  inactive_color_offset = 1.0
+  tab_position = bottom
+[keybindings]
+  paste = <Primary><Shift>v
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_darkness = 0.63
+    background_type = transparent
+    copy_on_selection = True
+    cursor_color = "#97979b"
+    font = Monospace 8
+    foreground_color = "#eff0eb"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+    use_theme_colors = True
