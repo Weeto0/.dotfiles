@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/elseno/web/wp-content/themes/Child'
+let g:netrw_dirhist_2='/home/something/web/traktern/1.presentasjon'
+let g:netrw_dirhist_3='/home/inkubatorno/web/wp-content/plugins/wp-members/admin'
+let g:netrw_dirhist_4='/usr/local/sbin'
+let g:netrw_dirhist_5='/etc/X11/Xresources'
+let g:netrw_dirhist_6='/usr/share/vim/vim80/colors'
+let g:netrw_dirhist_7='/home/kristian/.vim'
