@@ -1,0 +1,9 @@
+[submodule "Vundle.vim"]
+	path = vim/.vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
+[submodule "ultisnips"]
+	path = vim/.vim/bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "vim-snippets"]
+	path = vim/.vim/bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
